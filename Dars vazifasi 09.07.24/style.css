@@ -1,0 +1,46 @@
+header{
+    background-image: url(./images/menyu.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    color: rgb(254, 254, 254);
+    font-size: 40px;
+}
+h2{
+    background-color: rgb(170, 214, 123);
+    text-align: center;
+    padding: 10px;
+    border: 3px solid goldenrod;
+}
+table{
+    border: 1px solid white;
+}
+th{
+    background-color: yellow;
+    padding: 5px;
+}
+td{
+    background-color: greenyellow;
+    padding: 5px;
+
+}
+img{
+    width: 400px;
+}
+.all{
+    padding: 15px;
+    max-width: 70%;
+    margin: 0 auto;
+    background-color: bisque;
+}
+body{
+    background-image: url(./images/rasm.webp);
+}
